@@ -1,0 +1,11 @@
+HO: In IE/Chrome go to following site - https://ssl.2degreesmobile.co.nz/my.policy
+User - Firstname.Surname
+Pwd - Enter your password provided by 2degrees
+A onetime passcode is sent to Pager or other nominated phone, required for login.
+
+Start VPN from web site
+RDP to Apps (10.200.2.210) and SQL Servers (10.200.2.213) 
+User - NZC\SVC_AR_PROD
+Pwd - L1v3_@RPr0d_1257
+
+
